@@ -1,0 +1,115 @@
+
+Time Value of Money
+- [ ] NPV 
+- [ ] IRR
+- [ ] Payback period
+
+- [ ] Bond and Stock Valuation
+- [ ] Bond Evaluation
+- [ ] Stock Valuation
+
+- [ ] Capital Asset Pricing
+- [ ] CAPM
+- [ ] Moving beta
+- [ ] Adjusted beta
+- [ ] Extracting outputed data
+- text
+- csv  
+- excel
+- pickle
+- binary
+- read binary
+- simple string manipulation
+
+
+- [ ] Multifactor Model and Performance Measure
+- [ ] Fama-French three-factor Model
+- [ ] Fama-French-Carhart four-factor Model
+- [ ] Fama-French five-factor model 
+- [ ] Implementation of Dimson adjustement for beta
+- [ ] Performance measures
+- [ ] Time-Series Analysis
+- [ ] Return estimation
+- [ ] Interpolation technique
+- [ ] Test of Normality
+- [ ] 52-week high and low trading strategy
+- [ ] Estimating Roll's spread
+- [ ] Estimating Amihud's illiquidity
+- [ ] Estimating Pastor and Stambaugh liquidity Measure
+- [ ] Fama-MechBeth regression 
+- [ ] Durbin-Watson
+- [ ] Python for high-frequecy data
+- [ ] Spread estimated based on high-frequecy data
+- [ ] Introduction to CRSP
+
+
+- [ ] Optionzation - minimization
+- [ ] Forming an n-stock portfolio
+- [ ] Construction and efficient frontier with n stocks
+
+- [ ] Options and Futures
+- [ ] Payoff and profit/loss functions for call and put options
+- [ ] European versus American options
+- [ ] Binary-search
+- [ ] Volatility smile and Skewness
+
+- [ ] Value at Risk 
+- [ ] Normality test
+- [ ] Skewness and kurtosis
+- [ ] Modified VaR
+- [ ] VaR based on sorted historical returns
+- [ ] Simulation and VaR
+- [ ] VaR for portfolios
+- [ ] Backtesting and stress testing
+- [ ] Expected shortfall
+
+- [ ] Monte Carlo Simulation
+- [ ] Generating random numbers from standard normal distribution 
+- [ ] Generating random numbers with a seed
+- [ ] Generating random numbers from a uniform distribution
+- [ ] Using simulation to estimate the pi Value
+- [ ] Generating random numbers from a Poisson distribution
+- [ ] Selecting m stocks randomly from n given stocks
+- [ ] With/without replacements
+- [ ] Distribution of annual returns
+- [ ] Simulation of stock proce movements
+- [ ] Graphical presentation of stock prices at options' maturity dates
+- [ ] Replicating a Black-Scholes-Merton call using simulation
+
+
+- [ ] Credit Risk Analysis
+- [ ] Credit rating
+- [ ] Credit spread
+- [ ] YIELD and AAA-rated bond, Altman Z-score
+- [ ] KVM model to estimate market value of total assets and its Volatility
+- [ ] Term structure of interest rate
+- [ ] Distance of default
+- [ ] Credit default swap
+
+- [ ] Exotic Options
+- [ ] European, American and Bermuda Options
+- [ ] Chooser options
+- [ ] Shout Options
+- [ ] Binary Options
+- [ ] Raibow Options
+- [ ] Pricing average Options
+- [ ] Pricing barrier Options
+- [ ] Barrier in-and-out parity
+- [ ] Graph of up-and-out and up-and-in parity
+- [ ] Pricing lookback Options with floating strikes
+
+- [ ] Volatility, Implied Volatility, ARCH and GARCH
+- [ ] Conventional Volatility Measure - standard deviation
+- [ ] Test of Normality
+- [ ] Estimate fat tails
+- [ ] Lower partial standard deviation and Sortino ratio
+- [ ] Test of equivalency of Volatility over two periods
+- [ ] Test of heteroskedasticity, Breusch and Pagan
+- [ ] Volatility smile and Skewness
+- [ ] Graphical presentation of Volatility clustering
+- [ ] The ARCH Model
+- [ ] Simulation ARCH process
+- [ ] The GARCH model 
+- [ ] Simulating a GARCH process
+- [ ] Simulating a GARCH (p,q) process using modified garchSim()
+- [ ] GJR_GARCH by Glosten, Jagannanhan, anfd Runkle
