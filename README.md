@@ -26,7 +26,7 @@ Break Even Point
 ☐ Anti-Martingale  
 
 ### Artificial Intelligent
-☑ Deep Learning  
-☐ Reinforce Learning  
+☐ Deep Learning  
+☐ Reinforce Learning
 ☐ Financial Sentiment Analysis  
 ☐ Others [[reference]](https://github.com/firmai/financial-machine-learning)
