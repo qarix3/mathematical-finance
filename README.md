@@ -27,6 +27,6 @@ Break Even Point
 
 ### Artificial Intelligent
 ☐ Deep Learning  
-☐ Reinforce Learning
+☐ Reinforce Learning  
 ☐ Financial Sentiment Analysis  
 ☐ Others [[reference]](https://github.com/firmai/financial-machine-learning)
