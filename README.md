@@ -11,16 +11,17 @@ Break Even Point
 ☐ Intrinsic value [[reference]](https://github.com/JamesPNacino/Fundamental-Stock-Analysis-Intrinsic-Value)  
 ☐ Value Investing [[reference]](https://github.com/VincentTatan/ValueInvesting)  
 ☐ The Passive Investor [[reference]](https://github.com/JerBouma/ThePassiveInvestor)
-### Technical Analysis
 
+### Technical Analysis
 ☐ Volume  
 ☐ Volatility  
-☐ Trend  
+☐ Trend [[reference]](https://github.com/alvarobartt/trendet)  
 ☐ Momentum  
-☐ Others [[reference]](https://github.com/bukosabino/ta)
+☐ Others [[reference]](https://github.com/bukosabino/ta)  [[reference 2]](https://github.com/twopirllc/pandas-ta)
+
 
 ### Efficient Frontier
-☑ Portfolio Theory  
+☑ Portfolio Theory [reference](https://github.com/RamonWill/portfolio-management-project)  
 ☐ Kelly Criterion  
 ☐ Martingale  
 ☐ Anti-Martingale  
@@ -29,4 +30,5 @@ Break Even Point
 ☐ Deep Learning  
 ☐ Reinforce Learning  
 ☐ Financial Sentiment Analysis  
+☐ [DNNs](https://github.com/AlgoTraders/stock-analysis-engine)  
 ☐ Others [[reference]](https://github.com/firmai/financial-machine-learning)
