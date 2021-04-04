@@ -9,8 +9,8 @@ Break Even Point
 
 ### Fundamental Analysis
 ☐ Intrinsic value [[reference]](https://github.com/JamesPNacino/Fundamental-Stock-Analysis-Intrinsic-Value)  
-☐ 
-
+☐ Value Investing [[reference]](https://github.com/VincentTatan/ValueInvesting)  
+☐ The Passive Investor [[reference]](https://github.com/JerBouma/ThePassiveInvestor)
 ### Technical Analysis
 
 ☐ Volume  
