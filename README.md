@@ -30,6 +30,7 @@ Break Even Point
 ☐ Deep Learning  
 ☐ Reinforce Learning  
 ☐ Financial Sentiment Analysis  
+☐ [Time Series Forecasting](https://github.com/jinglescode/time-series-forecasting-tensorflowjs)  
 ☐ [Recurrent Neural Network](https://github.com/TatevKaren/recurrent-neural-network-pricing-model)  
-☐ [Deep Neural Networks](https://github.com/AlgoTraders/stock-analysis-engine)  
+☐ [Deep Neural Network](https://github.com/AlgoTraders/stock-analysis-engine)  
 ☐ Others [[reference]](https://github.com/firmai/financial-machine-learning)
