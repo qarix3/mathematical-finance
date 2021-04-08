@@ -58,12 +58,15 @@
 </details>
 
 ### Technical Analysis
+
 ☐ Volume  
 ☐ Volatility  
 ☐ Trend [[reference]](https://github.com/alvarobartt/trendet)  
-☐ Momentum  
-☐ Others [[reference]](https://github.com/bukosabino/ta)  [[reference 2]](https://github.com/twopirllc/pandas-ta)
+☐ Momentum
 
+#### Library
+[[reference]](https://github.com/bukosabino/ta)  
+[[reference 2]](https://github.com/twopirllc/pandas-ta)
 
 ### Portfolio Management
 
