@@ -158,7 +158,7 @@
 ### Portfolio Management
 
 <details>
-<summary>Portfolio</summary>
+<summary>Portfolio Theory</summary>
 
 #### Portfolio Modeling
 - Backtest Asset Allocation
@@ -226,10 +226,26 @@
 
 </details>
 
+#### Research
+https://jpm.pm-research.com/
+
 ### Risk Management
 
 <details>
 <summary>Risk Types</summary>
+
+- Trade Risk
+- Margin Risk
+- Market Risk
+- Liquidity Risk
+- Overnight Risk
+- Volatility Risk
+- Position Size Risk
+
+</details>
+
+<details>
+<summary>Risk </summary>
 
 - Trade Risk
 - Margin Risk
