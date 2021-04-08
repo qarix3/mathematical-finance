@@ -52,7 +52,7 @@
 
 - **Liquidity Ratio**
   - Cash Ratio
-  - Quick Ratio
+  - Quick Ratio (acid test)
   - Current Ratio
   
 - **Solvency Ratio**
@@ -81,7 +81,21 @@
   - Payables Turnover Ratio
   
 - **Efficiency Ratio**
+  - Account Receivable Turnover
+  - Inventory Turnover
+  - Accounts Payables Turnover
+  - Working Capital Turnover
+  - Fixed Assets Turnover
+  - Total Asset Turnover
+  
 - **Coverage Ratio**
+  - Interest Service Coverage Ratio
+  - Debt Service Coverage Ratio
+  - Total Cash Flow Coverage Ratio
+  - Asset Coverage Ratio
+  - Total Fixed Charge Coverage Ratio
+  - Total Cash Flow Coverage Ratio
+  
 - **Market Prospect Ratio**
 
 </details>
