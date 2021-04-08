@@ -9,8 +9,7 @@
 * [Risk Management](#risk-management)
 
 <details>
-<summary>Trading Strategies</summary>
-
+<summary>Trading Strategies</summary>  
 - Scalping
 - Day Trading
 - Swing Trading
@@ -40,8 +39,7 @@
 #### Option Trading
 
 <details>
-<summary>Option Strategies</summary>
-
+<summary>Option Strategies</summary>  
 - Long Call
 - Long Put
 - Short Call
@@ -244,15 +242,3 @@ https://jpm.pm-research.com/
 
 </details>
 
-<details>
-<summary>Risk </summary>
-
-- Trade Risk
-- Margin Risk
-- Market Risk
-- Liquidity Risk
-- Overnight Risk
-- Volatility Risk
-- Position Size Risk
-
-</details>
