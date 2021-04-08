@@ -104,6 +104,12 @@
   - Dividend Yield
   - Market to Book Ratio
 
+**DuPont Analysis**  
+- Net Profit Margin
+- Asset Turnover Ratio
+- Financial Leverage
+- Equity Multiplier
+
 </details>
 
 ### Technical Analysis
