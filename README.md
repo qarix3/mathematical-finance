@@ -45,6 +45,18 @@
 ☐ [Fundamental Analysis](https://github.com/JerBouma/FundamentalAnalysis)  
 ☐ [The Passive Investor](https://github.com/JerBouma/ThePassiveInvestor)
 
+<details>
+<summary>Ratio Analysis</summary>
+
+- Liquidity Ratio
+- Solvency Ratio
+- Profitability Ratio
+- Efficiency Ratio
+- Coverage Ratio
+- Market Prospect Ratio
+
+</details>
+
 ### Technical Analysis
 ☐ Volume  
 ☐ Volatility  
@@ -56,7 +68,7 @@
 ### Portfolio Management
 
 <details>
-<summary>Expand</summary>
+<summary>Portfolio</summary>
 
 #### Portfolio Modeling
 - Backtest Asset Allocation
@@ -152,4 +164,14 @@
 - Protective Collar
 
 </details>
+
+### Risk Management
+#### Risk
+- Trade Risk
+- Margin Risk
+- Market Risk
+- Liquidity Risk
+- Overnight Risk
+- Volatility Risk
+- Position Size Risk
 
