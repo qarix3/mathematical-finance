@@ -48,11 +48,7 @@
 ☐ [The Passive Investor](https://github.com/JerBouma/ThePassiveInvestor)
 
 <details>
-<summary>Ratio</summary>
-
-**Financial Ratio** 
-
-**Ratio Analysis**  
+<summary>Ratio Analysis</summary>
 
 - **Liquidity Ratio**
   - Cash Ratio
