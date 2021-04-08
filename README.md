@@ -24,7 +24,7 @@
 - [Options Trading](#option-trading)
 - Futures Trading
 - Algorithmic Trading 
-- Macro Trading
+- [Macro Trading](https://www.macrotrends.net/)
 - Value Investing
 - Statistical Arbitrage
 - Arbitrage Opportunities
