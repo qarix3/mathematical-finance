@@ -37,6 +37,34 @@
 - Performance Analysis
 - Quantitative Analysis
 
+</details>
+
+#### Option Trading
+<details>
+<summary>Option Strategies</summary>
+
+- Long Call
+- Long Put
+- Short Call
+- Short Put
+- Covered Call
+- Married Put
+- Bull Call Spread
+- Bear Call Spread
+- Bull Put Spread
+- Bear Put Spread
+- Call Backspread
+- Long Straddle
+- Short Straddle
+- Long Strangle
+- Short Strangle
+- Iron Condor
+- Iron Butterfly
+- Long Calendar Spread with Calls
+- Long Calendar Spread with Put
+- Long Butterfly with Calls
+- Long Butterfly with Put
+- Protective Collar
 
 </details>
 
@@ -195,35 +223,6 @@
 - Presidential Stock Portfolio
 - Obama Stock Portfolio
 - Trump Stock Portfolio
-
-</details>
-
-#### Option Trading
-<details>
-<summary>Option Strategies</summary>
-
-- Long Call
-- Long Put
-- Short Call
-- Short Put
-- Covered Call
-- Married Put
-- Bull Call Spread
-- Bear Call Spread
-- Bull Put Spread
-- Bear Put Spread
-- Call Backspread
-- Long Straddle
-- Short Straddle
-- Long Strangle
-- Short Strangle
-- Iron Condor
-- Iron Butterfly
-- Long Calendar Spread with Calls
-- Long Calendar Spread with Put
-- Long Butterfly with Calls
-- Long Butterfly with Put
-- Protective Collar
 
 </details>
 
