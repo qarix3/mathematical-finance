@@ -53,22 +53,40 @@
 **Financial Ratio** 
 
 **Ratio Analysis**  
-- Liquidity Ratio
+
+- **Liquidity Ratio**
   - Cash Ratio
   - Quick Ratio
   - Current Ratio
-- Solvency Ratio
-- Profitability Ratio
+  
+- **Solvency Ratio**
+  
+- **Profitability Ratio**
   - Profit Margin
   - Return on Equity (ROE)
   - Return on Assets (ROA)
-- Leverage Ratio
+  
+- **Leverage Ratio**
   - Debt Ratio
   - Debt to Equity Ratio (D/E)
-- Efficiency Ratio
-  - 
-- Coverage Ratio
-- Market Prospect Ratio
+  - Debt Service Coverage Ratio (DSCR)
+  - Interest Coverage Ratio
+  
+- **Market Ratio**
+  - Price-to-Earnings (P/E) Ratio
+  - Price/Earning-to-Growth (PEG) Ratio
+  - Price-to-Sales (P/S) Ratio
+  - Price-to-Book (P/B) Ratio
+  - Dividend Yield
+  - Dividend Payout Ratio
+  - Assets Turnover Ratio
+  - Inventory Turnover Ratio
+  - Receivables Turnover Ratio
+  - Payables Turnover Ratio
+  
+- **Efficiency Ratio**
+- **Coverage Ratio**
+- **Market Prospect Ratio**
 
 </details>
 
