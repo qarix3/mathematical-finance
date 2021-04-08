@@ -26,7 +26,7 @@
 - Algorithmic Trading 
 - [Macro Trading](https://www.macrotrends.net/)
 - Value Investing
-- Statistical Arbitrage
+- [Statistical Arbitrage](https://github.com/JerBouma/AlgorithmicTradingy)
 - Arbitrage Opportunities
 - Index Fund Rebalancing
 - Mathematical Model-based Strategies
@@ -72,7 +72,7 @@
 
 ☐ [Intrinsic value](https://github.com/JamesPNacino/Fundamental-Stock-Analysis-Intrinsic-Value)  
 ☐ Value Investing [I](https://github.com/VincentTatan/ValueInvesting) [II](https://github.com/daxm/fmpsdk)  
-☐ [The Passive Investor](https://github.com/JerBouma/ThePassiveInvestor)
+☐ [Fundamental Quantifier](https://github.com/JerBouma/AlgorithmicTrading)
 
 <details>
 <summary>Ratio Analysis</summary>
@@ -147,12 +147,10 @@
 
 ☐ Volume  
 ☐ Volatility  
-☐ Trend [[reference]](https://github.com/alvarobartt/trendet)  
+☐ Trend [I](https://github.com/alvarobartt/trendet)  
 ☐ Momentum
 
-#### Library
-[[reference]](https://github.com/bukosabino/ta)  
-[[reference 2]](https://github.com/twopirllc/pandas-ta)
+Library [I](https://github.com/bukosabino/ta) [II](https://github.com/twopirllc/pandas-ta)
 
 ### Portfolio Management
 
@@ -168,7 +166,7 @@
 - Monte Carlo Simulation Using Forward Looking Capital Market Expectations
 - Financial Goals Planning
 
-#### Portfolio Optimization
+#### Portfolio Optimization [I](https://github.com/robertmartin8/PyPortfolioOpt)
 - Efficient Frontier 
 - Resampled Efficient Frontier
 - Mean Variance Optimization
@@ -226,12 +224,13 @@
 </details>
 
 #### Research
-https://jpm.pm-research.com/
+
+[Porfolio Visualizer](https://www.portfoliovisualizer.com/)  
+[Porfolio Management Journal](https://jpm.pm-research.com/)
 
 ### Risk Management
 
-<details>
-<summary>Risk Types</summary>
+####Risk Types
 
 - Trade Risk
 - Margin Risk
@@ -241,5 +240,4 @@ https://jpm.pm-research.com/
 - Volatility Risk
 - Position Size Risk
 
-</details>
 
