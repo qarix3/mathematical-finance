@@ -52,7 +52,11 @@
 ☐ Momentum  
 ☐ Others [[reference]](https://github.com/bukosabino/ta)  [[reference 2]](https://github.com/twopirllc/pandas-ta)
 
+
 ### Portfolio Management
+
+<details>
+<summary>Expand</summary>
 
 #### Portfolio Modeling
 - Backtest Asset Allocation
@@ -80,11 +84,9 @@
 - Relative Strength
 - Dual Momentum 
 - Adaptive Allocation 
-- Target Volatility 
+- Target Volatility
 
-
-<details>
-<summary>Portfolio Strategies</summary>
+#### Portfolio Strategies
 
 - Long-term Investment
 - Short-term Investment
@@ -119,6 +121,7 @@
 - Presidential Stock Portfolio
 - Obama Stock Portfolio
 - Trump Stock Portfolio
+
 </details>
 
 #### Option Trading
