@@ -14,6 +14,7 @@
 - Scalping
 - Day Trading
 - Swing Trading
+  - Turtle Trading
 - Trend-following
 - Position Trading
 - Breakout Trading
@@ -36,6 +37,7 @@
 - Performance Analysis
 - Quantitative Analysis
 
+
 </details>
 
 ### Fundamental Analysis
@@ -46,11 +48,20 @@
 ☐ [The Passive Investor](https://github.com/JerBouma/ThePassiveInvestor)
 
 <details>
-<summary>Ratio Analysis</summary>
+<summary>Ratio</summary>
 
+**Financial Ratio** 
+
+**Ratio Analysis**  
 - Liquidity Ratio
+  - Cash Ratio
+  - Quick Ratio
+  - Current Ratio
 - Solvency Ratio
 - Profitability Ratio
+  - Profit Margin
+  - Return on Equity (ROE)
+  - Return on Assets (ROA)
 - Efficiency Ratio
 - Coverage Ratio
 - Market Prospect Ratio
