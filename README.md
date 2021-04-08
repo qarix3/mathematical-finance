@@ -228,7 +228,10 @@
 </details>
 
 ### Risk Management
-#### Risk
+
+<details>
+<summary>Risk Types</summary>
+
 - Trade Risk
 - Margin Risk
 - Market Risk
@@ -237,3 +240,4 @@
 - Volatility Risk
 - Position Size Risk
 
+</details>
