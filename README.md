@@ -7,7 +7,6 @@
 * [Technical Analysis](#technical-analysis)
 * [Portfolio Management](#portfolio-management)
 * [Risk Management](#risk-management)
----
 
 <details>
 <summary>Trading Strategies</summary>
@@ -53,27 +52,35 @@
 ☐ Momentum  
 ☐ Others [[reference]](https://github.com/bukosabino/ta)  [[reference 2]](https://github.com/twopirllc/pandas-ta)
 
-### Efficient Frontier
-☑ Portfolio Theory [reference](https://github.com/RamonWill/portfolio-management-project)  
-☐ Kelly Criterion  
-☐ Martingale  
-☐ Anti-Martingale  
+### Portfolio Management
 
-### Artificial Intelligent
-☐ Deep Learning  
-☐ Reinforce Learning  
-☐ Financial Sentiment Analysis  
-☐ [Time Series Forecasting](https://github.com/jinglescode/time-series-forecasting-tensorflowjs)  
-☐ [Recurrent Neural Network](https://github.com/TatevKaren/recurrent-neural-network-pricing-model)  
-☐ [Deep Neural Network](https://github.com/AlgoTraders/stock-analysis-engine)  
-☐ Others [[reference]](https://github.com/firmai/financial-machine-learning)
+#### Portfolio Modeling
+- Backtest Asset Allocation
+- Backtest Portfolio Performance
 
+#### Monte Carlo Simulation
+- Monte Carlo Simulation
+- Monte Carlo Simulation Using Forward Looking Capital Market Expectations
+- Financial Goals Planning
 
-## Mathematics of Investment
-Data Extraction  
-Profit/Loss  
-Lot Allocation  
-Break Even Point  
+#### Portfolio Optimization
+- Efficient Frontier 
+- Resampled Efficient Frontier
+- Mean Variance Optimization
+- Risk Parity Optimization
+- Constrained Optimization
+- Portfolio Optimization Using Forward Looking Capital Market Expectations
+
+#### Asset Analytics
+- Assets Correlations
+- Factor Regression Analysis
+
+#### Timing Models
+- Moving Averages
+- Relative Strength
+- Dual Momentum 
+- Adaptive Allocation 
+- Target Volatility 
 
 
 <details>
@@ -142,3 +149,4 @@ Break Even Point
 - Protective Collar
 
 </details>
+
