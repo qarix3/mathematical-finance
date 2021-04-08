@@ -9,7 +9,8 @@
 * [Risk Management](#risk-management)
 
 <details>
-<summary>Trading Strategies</summary>  
+<summary>Trading Strategies</summary>
+
 - Scalping
 - Day Trading
 - Swing Trading
@@ -39,7 +40,8 @@
 #### Option Trading
 
 <details>
-<summary>Option Strategies</summary>  
+<summary>Option Strategies</summary>
+
 - Long Call
 - Long Put
 - Short Call
@@ -69,8 +71,7 @@
 ### Fundamental Analysis
 
 ☐ [Intrinsic value](https://github.com/JamesPNacino/Fundamental-Stock-Analysis-Intrinsic-Value)  
-☐ [Value Investing](https://github.com/VincentTatan/ValueInvesting)  
-☐ [Fundamental Analysis](https://github.com/JerBouma/FundamentalAnalysis)  
+☐ Value Investing [I](https://github.com/VincentTatan/ValueInvesting) [II](https://github.com/daxm/fmpsdk)  
 ☐ [The Passive Investor](https://github.com/JerBouma/ThePassiveInvestor)
 
 <details>
@@ -130,7 +131,7 @@
   - Price/Earnings (PE) Ratio
   - Earnings per Share
   - Book Value per Share
-  - Market Value pee  Share
+  - Market Value per Share
   - Dividend Yield
   - Market to Book Ratio
 
