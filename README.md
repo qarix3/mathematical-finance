@@ -62,7 +62,11 @@
   - Profit Margin
   - Return on Equity (ROE)
   - Return on Assets (ROA)
+- Leverage Ratio
+  - Debt Ratio
+  - Debt to Equity Ratio (D/E)
 - Efficiency Ratio
+  - 
 - Coverage Ratio
 - Market Prospect Ratio
 
