@@ -56,6 +56,10 @@
   - Current Ratio
   
 - **Solvency Ratio**
+  - Interest Coverage Ratio
+  - Debt to Assets Ratio
+  - Equity Ratio
+  - Debt to Equity Ratio
   
 - **Profitability Ratio**
   - Profit Margin
