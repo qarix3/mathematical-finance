@@ -37,9 +37,8 @@
 - Performance Analysis
 - Quantitative Analysis
 
-</details>
-
 #### Option Trading
+
 <details>
 <summary>Option Strategies</summary>
 
@@ -66,6 +65,7 @@
 - Long Butterfly with Put
 - Protective Collar
 
+</details>
 </details>
 
 ### Fundamental Analysis
