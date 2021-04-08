@@ -1,30 +1,44 @@
 # Mathematical Finance
  Financial modeling and quantitative analysis 
 
-## Trading Strategies
+## Investing/Trading
 
 * [Fundamental Analysis](#fundamental-analysis)
 * [Technical Analysis](#technical-analysis)
-
+* [Portfolio Management](#portfolio-management)
+* [Risk Management](#risk-management)
 ---
-  
-- Trend-following Strategies
-- Algorithmic Trading Strategies
+
+<details>
+<summary>Trading Strategies</summary>
+
+- Scalping
+- Day Trading
+- Swing Trading
+- Trend-following
+- Position Trading
+- Breakout Trading
+- Trading a Reversal
+- Momentum Trading
+- Trend Trading
+- [Options Trading](#option-trading)
+- Futures Trading
+- Algorithmic Trading 
+- Macro Trading
+- Value Investing
 - Statistical Arbitrage
 - Arbitrage Opportunities
 - Index Fund Rebalancing
 - Mathematical Model-based Strategies
 - Trading Range (Mean Reversion)
-- Swing Trading Strategy Scalping (Trading)
-- Day Trading
 - End-of-day trading strategy
 - Trading the News
 - Trading the Signals Social Trading
-- Value Investing
 - Performance Analysis
 - Quantitative Analysis
 
----
+</details>
+
 ### Fundamental Analysis
 
 ☐ [Intrinsic value](https://github.com/JamesPNacino/Fundamental-Stock-Analysis-Intrinsic-Value)  
@@ -100,6 +114,7 @@ Break Even Point
 - Trump Stock Portfolio
 </details>
 
+#### Option Trading
 <details>
 <summary>Option Strategies</summary>
 
