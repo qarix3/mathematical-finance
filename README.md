@@ -97,6 +97,12 @@
   - Total Cash Flow Coverage Ratio
   
 - **Market Prospect Ratio**
+  - Price/Earnings (PE) Ratio
+  - Earnings per Share
+  - Book Value per Share
+  - Market Value pee  Share
+  - Dividend Yield
+  - Market to Book Ratio
 
 </details>
 
