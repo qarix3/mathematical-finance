@@ -26,7 +26,7 @@
 - Algorithmic Trading 
 - [Macro Trading](https://www.macrotrends.net/)
 - Value Investing
-- [Statistical Arbitrage](https://github.com/JerBouma/AlgorithmicTradingy)
+- [Statistical Arbitrage](https://github.com/JerBouma/AlgorithmicTrading)
 - Arbitrage Opportunities
 - Index Fund Rebalancing
 - Mathematical Model-based Strategies
