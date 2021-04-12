@@ -3,15 +3,16 @@
 ## IntrinsicValue
 **Summary**
 
-Analyzing the intrinsic value of stocks using various valuation methods and financial ratios. Investors such as Warren Buffet and Benjamin Graham are just a few examples of people who use a fundamental analysis approach to value stocks based upon their intrinsic value. Below is about how this app works, and the motivation for this type of automated analyses:
-Which goes over how to go over fundamental stock analysis like those legendary investors mentioned above. I needed a way to apply the things learned in this course without having to do manual calculations for every single stock to come up with an intrinsic value estimate. Before using this app it is highly reccommend that you take the class on udemy which was referenced earlier in this paragraph. If you navigate to Steps 2 and 3, that will explain the fundamental analysis and valuation methods that are provided by the application.
+Analyzing the intrinsic value of stocks using various valuation methods and financial ratios. Investors such as Warren Buffet and Benjamin Graham are just a few examples of people who use a fundamental analysis approach to value stocks based upon their intrinsic value.  
+Below is about how this app works, and the motivation for this type of automated analyses: Which goes over how to go over fundamental stock analysis like those legendary investors mentioned above. I needed a way to apply the things learned in this course without having to do manual calculations for every single stock to come up with an intrinsic value estimate. Before using this app it is highly reccommend that you take the class on udemy which was referenced earlier in this paragraph.   
+If you navigate to Steps 2 and 3, that will explain the fundamental analysis and valuation methods that are provided by the application.
 
 ### References
 https://www.udemy.com/value-investing-bootcamp-how-to-invest-wisely
 
 ## Value Investing Process
 
-### Step 1: Initial Screening - Manual Process
+### Step 1: Initial Screening
 
 An initial stock screener can be done on Google finance, yahoo finance, or many other tools. There are thousands upon thousands of companies in which you can buy stock. You need to use an initial stock screener to narrow down your search. Use the following filtering criteria to narrow down more specific stocks:
 
