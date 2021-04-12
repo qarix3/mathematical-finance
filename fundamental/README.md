@@ -4,7 +4,9 @@
 **Summary**
 
 Analyzing the intrinsic value of stocks using various valuation methods and financial ratios. Investors such as Warren Buffet and Benjamin Graham are just a few examples of people who use a fundamental analysis approach to value stocks based upon their intrinsic value.  
+
 Below is about how this app works, and the motivation for this type of automated analyses: Which goes over how to go over fundamental stock analysis like those legendary investors mentioned above. I needed a way to apply the things learned in this course without having to do manual calculations for every single stock to come up with an intrinsic value estimate. Before using this app it is highly reccommend that you take the class on udemy which was referenced earlier in this paragraph.   
+
 If you navigate to Steps 2 and 3, that will explain the fundamental analysis and valuation methods that are provided by the application.
 
 ### References
@@ -49,27 +51,37 @@ Long-term debt / Shareholder’s equity = debt to equity ratio
    ```
    
 3. **Are free cash flows stable or increasing over time?**  
-   FCF is used for paying debts, dividends, buybacks, or investing on growth for the company. Free cash flow is a very immportant metric for companies as it is hard for companies to manipulate their free cash flows. Also, cash is king!!! Calculated by taking:
-   cash from operating activities – cash from capital expenditures.  
+   FCF is used for paying debts, dividends, buybacks, or investing on growth for the company. Free cash flow is a very important metric for companies as it is hard for companies to manipulate their free cash flows:
+   ```math
+   Cash From Operating Activities – Cash From Capital Expenditures.
+   ``` 
    
 4. **Are cash and cash equivalents stable or increasing over time?**
    Reported on the balance sheet. An increasing value means that there is more cash reserves over time. Even though this metric is decreasing, the company can just be investing the reserve money to improve the business.
 
 5. **Is book value per share steadily growing over time?**
    This shows how much money, you would receive for your shares of stock if the company liquidates, selling all of its assets after paying off its debts. You want to look for companies with increasing book value per share because they are companies that are creating value. To calculate:
+   ```math
    Shareholder’s Equity / Shares Outstanding = Book value per share
+   ```
 
 6. **Is the net margin stable or growing over time?**
    Net margin is what percent of sales is profit. This figure differs greatly from industry to industry. If a company is able to sustain high profit margins, then the company may have a strong brand name or patented products that competitors can’t compete with. The higher the net margin, the better Calculated by:
+   ```math
    Net Income/ Revenue = Net Margin or profit margin
+   ```
 
 7. **Has the return on equity been consistently high?**
    Return on equity tells us how efficiently a company uses its assets to generate earnings. The higher the return on equity, the better. This is calculated by:
+   ```math
    Net Income / Shareholder’s Equity = Return on Equity
+   ```
 
 8. **Has debt-to-equity been consistently low or decreasing?**
    This ratio indicates how much debt a company in relation to its shareholder’s equity. High debt levels are a huge warning sign as it relies on debt to finance its growth. If a company has an increasing debt to equity ratio, then the investment may become risky because the company cannot meet its debt obligations. Calculated by:
+   ```math
    Long-term debt / Shareholder’s equity = debt to equity ratio 
+   ```
 
 ### Step 3: Valuation
 
