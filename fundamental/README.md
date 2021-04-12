@@ -4,11 +4,10 @@
 **Summary**
 
 Analyzing the intrinsic value of stocks using various valuation methods and financial ratios. Investors such as Warren Buffet and Benjamin Graham are just a few examples of people who use a fundamental analysis approach to value stocks based upon their intrinsic value. Below is about how this app works, and the motivation for this type of automated analyses:
+Which goes over how to go over fundamental stock analysis like those legendary investors mentioned above. I needed a way to apply the things learned in this course without having to do manual calculations for every single stock to come up with an intrinsic value estimate. Before using this app it is highly reccommend that you take the class on udemy which was referenced earlier in this paragraph. If you navigate to Steps 2 and 3, that will explain the fundamental analysis and valuation methods that are provided by the application.
 
 ### References
 https://www.udemy.com/value-investing-bootcamp-how-to-invest-wisely
-
-Which goes over how to go over fundamental stock analysis like those legendary investors mentioned above. I needed a way to apply the things learned in this course without having to do manual calculations for every single stock to come up with an intrinsic value estimate. Before using this app it is highly reccommend that you take the class on udemy which was referenced earlier in this paragraph. If you navigate to Steps 2 and 3, that will explain the fundamental analysis and valuation methods that are provided by the application.
 
 ## Value Investing Process
 
@@ -66,7 +65,7 @@ Long-term debt / Shareholder’s equity = debt to equity ratio
 
 In this step, we calculate the intrinsic value of a stock based upon two various methods. The price earnings multiple valuation method and the Discounted Cash flow valuation method.
 
-1. Price Earnings Multiple Valuation Method 
+1. **Price Earnings Multiple Valuation Method**
    In this method, a five-year price target is determined based on historical P/E valuation. We will take three inputs to calculate a five-year price target for the company 
    Input 1: Find the median P/E ratio over the past five years. In this example, we will use 19.0 
    Input 2: Find the company’s earnings per share over the most recent four quarters. This may be listed as “EPS (ttm)” or earnings per share trailing twelve months on various sites. This is calculated by just adding these four quarter EPS figures together. In this example, we will use $2.00 
@@ -77,13 +76,17 @@ In this step, we calculate the intrinsic value of a stock based upon two various
    $54.55 / (1 + .10) ^5 = $33.87 
    This, per the P/E valuation model states that the intrinsic value and NPV of that stock is approximately $33.87. 
 
-2. Discounted Cash Flow Model (DCF)
+2. **Discounted Cash Flow Model (DCF)**
    DCF Model projects future cash flows and discounts them back to the present value; this is a valuation method that estimates the intrinsic value of an investment opportunity. The discount rate represents the riskiness of the company’s capital. You then add up the net present value of the cash flows which is the intrinsic value of the company. 
-   Cash flows are generally projected 5-10 years. More mature companies who do not expect as much growth in cash flows, such as Coca Cola will use a 5 year free cash flow projection. In this example we will use a 5-year DCF model. 
-   i. Calculate the company’s capital expenditures from the last four quarters. Sum, it up. In this example, we will use $7,207 
-   ii. Calculate the company’s cash from operating activities. Sum it up. Then in the example, we will use $53,944 
-   iii. Take the cash from operating activities and subtract it with the capital expenditures. This will give us free cash flow (FCF)
+   Cash flows are generally projected 5-10 years. More mature companies who do not expect as much growth in cash flows, such as Coca-Cola will use a 5-year free cash flow projection. In this example we will use a 5-year DCF model.
+   
+   i. Calculate the company’s capital expenditures from the last four quarters. Sum, it up. In this example, we will use $7,207  
+   ii. Calculate the company’s cash from operating activities. Sum it up. Then in the example, we will use $53,944  
+   iii. Take the cash from operating activities and subtract it with the capital expenditures. This will give us free cash flow (FCF)  
+    
+   ```math
    $53,944 - $7,207 = $46,737
+   ``
    
 4. Then we decide a growth rate of the company for the next five years. This can be analysts’ estimates or your own estimate. If analysts decide that the company will grow at 15.37% each year for the next five years, then use a 25% margin of safety. This means that the conservative growth rate will be (15.37 * (1 - .25)) = 11.53%. **In this application, the automatic selection option is to have the growth rate at a negative value. All this means is that if the growth rate is negative as shown on the app, the calculation for the growth rate value is as follows. The slope of the line of best fit through all historic cash flows is calculated. A predicted free cash flow value is predicted based on this slope one year into the future. Then the growth rate is the percent change of the most recent free cash flow (ttm) value to the predicted free cash flow value one year into the future.**
 
