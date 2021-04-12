@@ -87,12 +87,17 @@ Long-term debt / Shareholder’s equity = debt to equity ratio
 
 In this step, we calculate the intrinsic value of a stock based upon two various methods. The price earnings multiple valuation method and the Discounted Cash flow valuation method.
 
-1. **Price Earnings Multiple Valuation Method**
-   In this method, a five-year price target is determined based on historical P/E valuation. We will take three inputs to calculate a five-year price target for the company 
-   Input 1: Find the median P/E ratio over the past five years. In this example, we will use 19.0 
-   Input 2: Find the company’s earnings per share over the most recent four quarters. This may be listed as “EPS (ttm)” or earnings per share trailing twelve months on various sites. This is calculated by just adding these four quarter EPS figures together. In this example, we will use $2.00 
-   Input 3: Now estimate a value which you expect the company will grow its profit each year for the next five years. You can use analysts’ growth rate percentage. Make sure to use the Margin of Safety principle to give your estimate room for error. For example, if analysts predict that the company’s profit will grow 10% each year, then use a 15-25% margin of safety buffer. This means that your growth rate estimate will be conservative and if we use a 25% margin of safety buffer, we will arrive at a value of 7.5% (10 percent estimated growth rate * (1 – .25 margin of safety))
-   Now using the three inputs we can arrive at this formula, for a five-year price target (the exponent represents the number of years):
+1. **Price Earnings Multiple Valuation Method**  
+   
+   In this method, a five-year price target is determined based on historical P/E valuation. We will take three inputs to calculate a five-year price target for the company:  
+   Input 1: Find the median P/E ratio over the past five years. In this example, we will use 19.0   
+   Input 2: Find the company’s earnings per share over the most recent four quarters. This may be listed as “EPS (ttm)” or earnings per share trailing twelve months on various sites. This is calculated by just adding these four quarter EPS figures together. In this example, we will use $2.00  
+   Input 3: Now estimate a value which you expect the company will grow its profit each year for the next five years.  
+   You can use analysts’ growth rate percentage. Make sure to use the Margin of Safety principle to give your estimate room for error.  
+   For example, if analysts predict that the company’s profit will grow 10% each year, then use a 15-25% margin of safety buffer.  
+   This means that your growth rate estimate will be conservative and if we use a 25% margin of safety buffer, we will arrive at a value of 7.5% (10 percent estimated growth rate * (1 – .25 margin of safety))
+   Now using the three inputs we can arrive at this formula, for a five-year price target (the exponent represents the number of years):  
+   
    ```math
    19 * $2.00 * (1 + .075) ^5 = $54.55 
    ```
