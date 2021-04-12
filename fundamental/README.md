@@ -85,7 +85,8 @@ An initial stock screener can be done on Google finance, yahoo finance, or many 
 
 In this step, we calculate the intrinsic value of a stock based upon two various methods. The price earnings multiple valuation method and the Discounted Cash flow valuation method.
 
-1.  **Price Earnings Multiple Valuation Method**  
+1.  **Price Earnings Multiple Valuation Method** 
+    
     In this method, a five-year price target is determined based on historical P/E valuation. We will take three inputs to calculate a five-year price target for the company:
     
     Input 1: Find the median P/E ratio over the past five years. In this example, we will use 19.0  
@@ -108,6 +109,7 @@ In this step, we calculate the intrinsic value of a stock based upon two various
     This, per the P/E valuation model states that the intrinsic value and NPV of that stock is approximately $33.87. 
 
 2.  **Discounted Cash Flow Model (DCF)**  
+    
     DCF Model projects future cash flows and discounts them back to the present value; this is a valuation method that estimates the intrinsic value of an investment opportunity. The discount rate represents the riskiness of the company’s capital. You then add up the net present value of the cash flows which is the intrinsic value of the company. 
     Cash flows are generally projected 5-10 years. More mature companies who do not expect as much growth in cash flows, such as Coca-Cola will use a 5-year free cash flow projection. In this example we will use a 5-year DCF model. 
     i. Calculate the company’s capital expenditures from the last four quarters. Sum, it up. In this example, we will use $7,207  
