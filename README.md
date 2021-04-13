@@ -155,7 +155,7 @@ Break Even Point
 ☐ Trend [I](https://github.com/alvarobartt/trendet)  
 ☐ Momentum
 
-Library [I](https://github.com/bukosabino/ta) [II](https://github.com/twopirllc/pandas-ta)  [III](https://github.com/mrjbq7/ta-lib)
+Library [I](https://github.com/bukosabino/ta) [II](https://github.com/twopirllc/pandas-ta)  [III](https://github.com/mrjbq7/ta-lib) [IV](https://github.com/mementum/bta-lib)
 
 ### Portfolio Management
 
