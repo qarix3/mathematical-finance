@@ -1,13 +1,7 @@
 # Mathematical Finance
- Financial modeling and quantitative analysis 
-
-Data Extraction  
-Profit/Loss  
-Lot Allocation  
-Break Even Point  
+Financial modeling and quantitative analysis
 
 ## Investing/Trading
-
 * [Fundamental Analysis](#fundamental-analysis)
 * [Technical Analysis](#technical-analysis)
 * [Portfolio Management](#portfolio-management)
@@ -43,7 +37,6 @@ Break Even Point
 - Quantitative Analysis
 
 #### Option Trading
-
 <details>
 <summary>Option Strategies</summary>
 
@@ -74,9 +67,7 @@ Break Even Point
 </details>
 
 ### Fundamental Analysis
-
-☐ [Intrinsic value](https://github.com/JamesPNacino/Fundamental-Stock-Analysis-Intrinsic-Value)  
-☐ Value Investing [I](https://github.com/VincentTatan/ValueInvesting) [II](https://github.com/daxm/fmpsdk)  
+☐ Value Investing [I](https://github.com/VincentTatan/ValueInvesting) [II](https://github.com/JamesPNacino/Fundamental-Stock-Analysis-Intrinsic-Value)   
 ☐ [Fundamental Quantifier](https://github.com/JerBouma/AlgorithmicTrading)
 
 <details>
@@ -149,7 +140,6 @@ Break Even Point
 </details>
 
 ### Technical Analysis
-
 ☐ Volume  
 ☐ Volatility  
 ☐ Trend [I](https://github.com/alvarobartt/trendet)  
@@ -158,7 +148,6 @@ Break Even Point
 Library [I](https://github.com/bukosabino/ta) [II](https://github.com/twopirllc/pandas-ta)  [III](https://github.com/mrjbq7/ta-lib) [IV](https://github.com/mementum/bta-lib)
 
 ### Portfolio Management
-
 <details>
 <summary>Portfolio Theory</summary>
 
@@ -193,13 +182,11 @@ Library [I](https://github.com/bukosabino/ta) [II](https://github.com/twopirllc/
 </details>
 
 #### Research
-
 [Porfolio Visualizer](https://www.portfoliovisualizer.com/)  
 [Porfolio Management Journal](https://jpm.pm-research.com/)
 
 ### Risk Management
-
-☑ Portfolio Theory [reference](https://github.com/RamonWill/portfolio-management-project)  
+☑ [Portfolio Theory](https://github.com/RamonWill/portfolio-management-project)  
 ☐ Kelly Criterion  
 ☐ Martingale  
 ☐ Anti-Martingale
@@ -257,5 +244,5 @@ Library [I](https://github.com/bukosabino/ta) [II](https://github.com/twopirllc/
 ☐ [Time Series Forecasting](https://github.com/jinglescode/time-series-forecasting-tensorflowjs)  
 ☐ [Recurrent Neural Network](https://github.com/TatevKaren/recurrent-neural-network-pricing-model)  
 ☐ [Deep Neural Network](https://github.com/AlgoTraders/stock-analysis-engine)  
-☐ Others [[reference]](https://github.com/firmai/financial-machine-learning)
+☐ [Others](https://github.com/firmai/financial-machine-learning)
 
