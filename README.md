@@ -169,13 +169,13 @@ Library [I](https://github.com/bukosabino/ta) [II](https://github.com/twopirllc/
 - Markowitz's Two-Asset Portfolo
 - Lending and Borrowing at a Risk-Free Rate of Return
 - Types of Risk
-  - Trade Risk
-  - Margin Risk
   - Market Risk
-  - Liquidity Risk
-  - Overnight Risk
-  - Volatility Risk
-  - Position Size Risk
+  - Credit Risk
+  - Litigation Risk
+  - Compliance Risk
+  - Reputational Risk
+  - Strategic Risk
+  - Operational Risk
 
 #### Capital Asset Pricing Model (CAPM)
 - The Financial Beta (b)
