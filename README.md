@@ -148,48 +148,16 @@ Financial modeling and quantitative analysis
 Library [I](https://github.com/bukosabino/ta) [II](https://github.com/twopirllc/pandas-ta)  [III](https://github.com/mrjbq7/ta-lib) [IV](https://github.com/mementum/bta-lib)
 
 ### Portfolio Management
-<details>
-<summary>Portfolio Theory</summary>
-
-#### Portfolio Modeling
-- Backtest Asset Allocation
-- Backtest Portfolio Performance
-
-#### Monte Carlo Simulation
-- Monte Carlo Simulation
-- Monte Carlo Simulation Using Forward Looking Capital Market Expectations
-- Financial Goals Planning
-
-#### Portfolio Optimization [I](https://github.com/robertmartin8/PyPortfolioOpt)
-- Efficient Frontier 
-- Resampled Efficient Frontier
-- Mean Variance Optimization
-- Risk Parity Optimization
-- Constrained Optimization
-- Portfolio Optimization Using Forward Looking Capital Market Expectations
-
-#### Asset Analytics
-- Assets Correlations
-- Factor Regression Analysis
-
-#### Timing Models
-- Moving Averages
-- Relative Strength
-- Dual Momentum 
-- Adaptive Allocation 
-- Target Volatility
-
-</details>
-
-#### Research
+[Portfolio Optimization](https://github.com/robertmartin8/PyPortfolioOpt)  
 [Porfolio Visualizer](https://www.portfoliovisualizer.com/)  
-[Porfolio Management Journal](https://jpm.pm-research.com/)
+[Porfolio Management Journal](https://jpm.pm-research.com/)  
 
 ### Risk Management
 ☑ [Portfolio Theory](https://github.com/RamonWill/portfolio-management-project)  
 ☐ Kelly Criterion  
 ☐ Martingale  
 ☐ Anti-Martingale
+
 <details>
 <summary>Risk Analysis</summary>
 

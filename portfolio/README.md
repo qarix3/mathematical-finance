@@ -1,6 +1,37 @@
 # Portfolio Analysis Model
 
+#### Portfolio Modeling
+- Backtest Asset Allocation
+- Backtest Portfolio Performance
+
+#### Monte Carlo Simulation
+- Monte Carlo Simulation
+- Monte Carlo Simulation Using Forward Looking Capital Market Expectations
+- Financial Goals Planning
+
+#### Portfolio Optimization
+- Efficient Frontier 
+- Resampled Efficient Frontier
+- Mean Variance Optimization
+- Risk Parity Optimization
+- Constrained Optimization
+- Portfolio Optimization Using Forward Looking Capital Market Expectations
+
+#### Asset Analytics
+- Assets Correlations
+- Factor Regression Analysis
+
+#### Timing Models
+- Moving Averages
+- Relative Strength
+- Dual Momentum 
+- Adaptive Allocation 
+- Target Volatility
+
 #### Portfolio Strategies
+
+<details>
+<summary>List Portfolio Strategies</summary>
 
 - Long-term Investment
 - Short-term Investment
@@ -33,3 +64,5 @@
 - Portfolio Insurance
 - Constant Proportion Portfolio Insurance (CPPI)
 - Presidential Stock Portfolio
+
+</details>
