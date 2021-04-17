@@ -1,6 +1,8 @@
 # Mathematical Finance
 Financial modeling and quantitative analysis
 
+🚧 WORK IN PROGRES 
+
 ## Investing/Trading
 * [Fundamental Analysis](#fundamental-analysis)
 * [Technical Analysis](#technical-analysis)
