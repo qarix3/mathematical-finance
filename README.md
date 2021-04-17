@@ -67,8 +67,10 @@ Financial modeling and quantitative analysis
 </details>
 
 ### Fundamental Analysis
-☐ Value Investing [I](https://github.com/VincentTatan/ValueInvesting) [II](https://github.com/JamesPNacino/Fundamental-Stock-Analysis-Intrinsic-Value)   
-☐ [Fundamental Quantifier](https://github.com/JerBouma/AlgorithmicTrading)
+☐ Value Investing [I](https://github.com/VincentTatan/ValueInvesting) [II](https://github.com/astro30/valinvest)  
+☐ Growth at a reasonable price (GARP)   
+☐ Growth Investing  
+☐ Income investing
 
 <details>
 <summary>Ratio Analysis</summary>

@@ -1,5 +1,7 @@
 # Fundamental Stock Analysis
 
+[Reference](https://github.com/JamesPNacino/Fundamental-Stock-Analysis-Intrinsic-Value)
+
 ## Intrinsic Value
 
 Analyzing the intrinsic value of stocks using various valuation methods and financial ratios. Investors such as Warren Buffet and Benjamin Graham are just a few examples of people who use a fundamental analysis approach to value stocks based upon their intrinsic value.  
