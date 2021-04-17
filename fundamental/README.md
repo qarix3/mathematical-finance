@@ -1,17 +1,10 @@
 # Fundamental Stock Analysis
-
-[Reference](https://github.com/JamesPNacino/Fundamental-Stock-Analysis-Intrinsic-Value)
-
-## Intrinsic Value
-
-Analyzing the intrinsic value of stocks using various valuation methods and financial ratios. Investors such as Warren Buffet and Benjamin Graham are just a few examples of people who use a fundamental analysis approach to value stocks based upon their intrinsic value.  
-
-Below is about how this app works, and the motivation for this type of automated analyses: Which goes over how to go over fundamental stock analysis like those legendary investors mentioned above. I needed a way to apply the things learned in this course without having to do manual calculations for every single stock to come up with an intrinsic value estimate. Before using this app it is highly reccommend that you take the class on udemy which was referenced earlier in this paragraph.   
-
-If you navigate to Steps 2 and 3, that will explain the fundamental analysis and valuation methods that are provided by the application.
+Analyzing the intrinsic value of stocks using various valuation methods and financial ratios.
 
 ### References
-https://www.udemy.com/value-investing-bootcamp-how-to-invest-wisely
+https://www.udemy.com/value-investing-bootcamp-how-to-invest-wisely  
+http://www.aceprofitsacademy.com/wp-content/uploads/2016/09/Gone-Fishing-with-Buffett.pdf  
+https://github.com/JamesPNacino/Fundamental-Stock-Analysis-Intrinsic-Value  
 
 ## Value Investing Process
 
@@ -109,23 +102,18 @@ In this step, we calculate the intrinsic value of a stock based upon two various
     ```
     This, per the P/E valuation model states that the intrinsic value and NPV of that stock is approximately $33.87. 
 
-2.  **Discounted Cash Flow Model (DCF)**  
-    
+2.  **Discounted Cash Flow Model (DCF)**
     DCF Model projects future cash flows and discounts them back to the present value; this is a valuation method that estimates the intrinsic value of an investment opportunity. The discount rate represents the riskiness of the company’s capital. You then add up the net present value of the cash flows which is the intrinsic value of the company. 
-    Cash flows are generally projected 5-10 years. More mature companies who do not expect as much growth in cash flows, such as Coca-Cola will use a 5-year free cash flow projection. In this example we will use a 5-year DCF model. 
-    i. Calculate the company’s capital expenditures from the last four quarters. Sum, it up. In this example, we will use $7,207  
-    
-    ii. Calculate the company’s cash from operating activities. Sum it up. Then in the example, we will use $53,944  
-    
-    iii. Take the cash from operating activities and subtract it with the capital expenditures. This will give us free cash flow (FCF)
+    Cash flows are generally projected 5-10 years. More mature companies who do not expect as much growth in cash flows, such as Coca-Cola will use a 5-year free cash flow projection. In this example we will use a 5-year DCF model.  
+    * Calculate the company’s capital expenditures from the last four quarters. Sum, it up. In this example, we will use $7,207 
+    * Calculate the company’s cash from operating activities. Sum it up. Then in the example, we will use $53,944
+    * Take the cash from operating activities and subtract it with the capital expenditures. This will give us free cash flow (FCF)
     ```math
     $53,944 - $7,207 = $46,737
     ```
 
 3.  Then we decide a growth rate of the company for the next five years. This can be analysts’ estimates or your own estimate. If analysts decide that the company will grow at 15.37% each year for the next five years, then use a 25% margin of safety. This means that the conservative growth rate will be (15.37 * (1 - .25)) = 11.53%. In this application, the automatic selection option is to have the growth rate at a negative value. All this means is that if the growth rate is negative as shown on the app, the calculation for the growth rate value is as follows. The slope of the line of best fit through all historic cash flows is calculated. A predicted free cash flow value is predicted based on this slope one year into the future. Then the growth rate is the percent change of the most recent free cash flow (ttm) value to the predicted free cash flow value one year into the future.
-
 4.  As a company grows in size it is hard to maintain a high growth rate, so each year, the conservative growth rate will decline by 5% each year.
-
 5.  So we take our free cash flow of $46,737 and then we multiply it by the conservative growth rate of 11.53% to get the free cash flow one year from now:
        ```math
        (46737 * 1.1153) = $52,125 FCF for year one.
@@ -145,11 +133,9 @@ In this step, we calculate the intrinsic value of a stock based upon two various
     ```math
     $52,125 / (1 + .10)^2 = $47,386 NPV FCF
     ```
-   
+    
 9.  Continue the process till the year 5 FCF and NPV FCF is calculated.
-   
 10. Take the value of the year 5 FCF, $76,747.49, then you would need to calculate the terminal value which is the company’s long-term valuation as the company approaches perpetuity.
-
 11. To calculate the terminal value using the Gordon Growth Model you also need to come up with a long-term cash flow growth rate. The long-term growth rate for cash flow in the US economy is around 3%, so we will plug that value in the following formula. 
     Terminal value = projected cash flow for final year (1 + long-term growth rate) / (discount rate - long-term growth rate)
     ```math
@@ -162,7 +148,43 @@ In this step, we calculate the intrinsic value of a stock based upon two various
     ```
     
 13. Now find the cash and cash equivalents on the balance sheet, in this example we will use, $41,350. Now find long-term debt balance on the balance sheet, in this example, we will use $16,962.
-    
 14. Take the following inputs and add (subtract debt though) to get the company value using the DCF model.
-    
 15. You would then take the company value and then divide it by the number of shares outstanding, which will give you the value of the stock price using the DCF model.
+
+### Summary
+- EPS
+- ROE
+- ROA
+- Long term debt
+- Total Income
+- Debt to Equity
+- Interest Coverage Ratio
+
+Warning Signs List based on value investing logic  
+
+Given list of the companies, find out the feasibility to invest
+Been in market minimal 10 years
+Have the track records (EPS per year)
+Have efficiency (ROE > 15%) -- Net income / shareholder equity
+Determine manipulation (ROA > 7%) -- Net income / Total Asset
+Have small long term debt (Long term debt <5* total income)
+Low Debt to Equity
+Ability to pay interest: (Interest Coverage Ratio >3) -- EBIT / Interest expenses
+
+Decision Machine based on Marginal Price From Stocks EPS  
+
+Decision-making from each company in terms of return rate given the value investing methodology
+Find EPS Annual Compounded Growth Rate
+Estimate EPS 10 years from now
+Estimate stock price 10 years from now (Stock Price EPS * Average PE)
+Determine target by price today based on returns(discount rate 15%/20%)
+Add margin of safety (Safety net 15%)
+Buy if market price is lower than the marginal price
+Sell if market price is higher than the marginal price
+
+Additional Assessments  
+
+Qualitative Assessment of the companies
+Advantages in business (product differentiation, branding, low price producer, high switching cost, legal barriers to entry)
+Ability of foolhardy management (even a fool can run)
+Avoid price competitive business
