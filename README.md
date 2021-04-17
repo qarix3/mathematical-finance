@@ -153,12 +153,12 @@ Library [I](https://github.com/bukosabino/ta) [II](https://github.com/twopirllc/
 [Porfolio Management Journal](https://jpm.pm-research.com/)  
 
 ### Risk Management
-☐ Profit/Loss
-☐ Backtesting and Trade Forensics
-☐ Value-at-Risk
-☐ Hedging
-☐ Mark to Market
-☐ Credit Value Adjustment
+☐ Profit/Loss  
+☐ Backtesting and Trade Forensics  
+☐ Value-at-Risk  
+☐ Hedging  
+☐ Mark to Market  
+☐ Credit Value Adjustment  
 
 ### Asset Allocation
 ☑ [Portfolio Theory](https://github.com/RamonWill/portfolio-management-project)  
