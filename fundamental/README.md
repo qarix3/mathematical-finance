@@ -165,11 +165,11 @@ Warning Signs List based on value investing logic
 Given list of the companies, find out the feasibility to invest  
 Been in market minimal 10 years  
 Have the track records (EPS per year)  
-Have efficiency (ROE > 15%) -- Net income / shareholder equity  
-Determine manipulation (ROA > 7%) -- Net income / Total Asset  
+Have efficiency (ROE > 15%) -- `Net income / shareholder equity`   
+Determine manipulation (ROA > 7%) -- `Net income / Total Asset`  
 Have small long term debt (Long term debt <5* total income)  
 Low Debt to Equity  
-Ability to pay interest: (Interest Coverage Ratio >3) -- EBIT / Interest expenses  
+Ability to pay interest: (Interest Coverage Ratio >3) -- `EBIT / Interest expenses`  
 
 Decision Machine based on Marginal Price From Stocks EPS  
 
