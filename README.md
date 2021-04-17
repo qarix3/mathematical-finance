@@ -153,14 +153,6 @@ Library [I](https://github.com/bukosabino/ta) [II](https://github.com/twopirllc/
 [Porfolio Management Journal](https://jpm.pm-research.com/)  
 
 ### Risk Management
-☑ [Portfolio Theory](https://github.com/RamonWill/portfolio-management-project)  
-☐ Kelly Criterion  
-☐ Martingale  
-☐ Anti-Martingale
-
-<details>
-<summary>Risk Analysis</summary>
-
 #### Measuring Return and Risk
 - Expected Rate of Return
 - Measuring the Risk
@@ -203,7 +195,11 @@ Library [I](https://github.com/bukosabino/ta) [II](https://github.com/twopirllc/
 - Economic Capital Allocation
 - Regulatory Principles, the Standardized and Internal Model Approach
 
-</details>
+### Asset Allocation
+☑ [Portfolio Theory](https://github.com/RamonWill/portfolio-management-project)  
+☐ Kelly Criterion  
+☐ Martingale  
+☐ Anti-Martingale
 
 ### Artificial Intelligent
 ☐ Deep Learning  
