@@ -1,13 +1,18 @@
 # Mathematical Finance
+
 Financial modeling and quantitative analysis
 
-🚧 WORK IN PROGRES 
-
 ## Investing/Trading
-* [Fundamental Analysis](#fundamental-analysis)
-* [Technical Analysis](#technical-analysis)
-* [Portfolio Management](#portfolio-management)
-* [Risk Management](#risk-management)
+
+- [Mathematical Finance](#mathematical-finance)
+  - [Investing/Trading](#investingtrading)
+      - [Option Trading](#option-trading)
+    - [Fundamental Analysis](#fundamental-analysis)
+    - [Technical Analysis](#technical-analysis)
+    - [Portfolio Management](#portfolio-management)
+    - [Risk Management](#risk-management)
+    - [Asset Allocation](#asset-allocation)
+    - [Artificial Intelligent](#artificial-intelligent)
 
 <details>
 <summary>Trading Strategies</summary>
