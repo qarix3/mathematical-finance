@@ -110,59 +110,59 @@ Financial modeling and quantitative analysis
   
 - **Market Ratio**
   
-  - Price-to-Earnings (P/E) Ratio
-  - Price/Earning-to-Growth (PEG) Ratio
-  - Price-to-Sales (P/S) Ratio
-  - Price-to-Book (P/B) Ratio
-  - Dividend Yield
-  - Dividend Payout Ratio
   - Assets Turnover Ratio
+  - Dividend Payout Ratio
+  - Dividend Yield
   - Inventory Turnover Ratio
-  - Receivables Turnover Ratio
   - Payables Turnover Ratio
+  - Price-to-Book (P/B) Ratio
+  - Price-to-Earnings (P/E) Ratio
+  - Price-to-Sales (P/S) Ratio
+  - Price/Earning-to-Growth (PEG) Ratio
+  - Receivables Turnover Ratio
   
 - **Efficiency Ratio**
   
   - Account Receivable Turnover
-  - Inventory Turnover
   - Accounts Payables Turnover
-  - Working Capital Turnover
   - Fixed Assets Turnover
+  - Inventory Turnover
   - Total Asset Turnover
+  - Working Capital Turnover
   
 - **Coverage Ratio**
   
-  - Interest Service Coverage Ratio
-  - Debt Service Coverage Ratio
-  - Total Cash Flow Coverage Ratio
   - Asset Coverage Ratio
-  - Total Fixed Charge Coverage Ratio
+  - Debt Service Coverage Ratio
+  - Interest Service Coverage Ratio
   - Total Cash Flow Coverage Ratio
+  - Total Cash Flow Coverage Ratio
+  - Total Fixed Charge Coverage Ratio
   
 - **Market Prospect Ratio**
   
-  - Price/Earnings (PE) Ratio
-  - Earnings per Share
   - Book Value per Share
-  - Market Value per Share
   - Dividend Yield
+  - Earnings per Share
+  - Market Value per Share
   - Market to Book Ratio
+  - Price/Earnings (PE) Ratio
 
 - **DuPont Analysis**  
 
-  - Net Profit Margin
   - Asset Turnover Ratio
-  - Financial Leverage
   - Equity Multiplier
-
+  - Financial Leverage
+  - Net Profit Margin
+  
 </details>
 
 ## Technical Analysis
 
-☐ Volume  
+☐ Momentum  
+☐ Trend  
 ☐ Volatility  
-☐ Trend
-☐ Momentum
+☐ Volume  
 
 ## Portfolio Management
 
@@ -192,6 +192,6 @@ Financial modeling and quantitative analysis
 ☐ Financial Sentiment Analysis  
 ☐ Reinforce Learning  
 ☑ [Deep Neural Network](https://github.com/AlgoTraders/stock-analysis-engine)  
-☑ [Others](https://github.com/firmai/financial-machine-learning)
 ☑ [Recurrent Neural Network](https://github.com/TatevKaren/recurrent-neural-network-pricing-model)  
 ☑ [Time Series Forecasting](https://github.com/jinglescode/time-series-forecasting-tensorflowjs)  
+☑ [Others](https://github.com/firmai/financial-machine-learning)  
