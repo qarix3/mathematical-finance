@@ -17,7 +17,6 @@ Financial modeling and quantitative analysis
 
 <summary>Trading Strategies</summary>
 
-- Turtle Trading
 - Algorithmic Trading 
 - Arbitrage Opportunities
 - Breakout Trading
@@ -38,6 +37,7 @@ Financial modeling and quantitative analysis
 - Trading the Signals Social Trading
 - Trend Trading
 - Trend-following
+- Turtle Trading
 - Value Investing
 - [Macro Trading](https://www.macrotrends.net/)
 - [Options Trading](#option-trading)
@@ -73,7 +73,8 @@ Financial modeling and quantitative analysis
 </details>
 
 ## Fundamental Analysis
-☐ Value Investing [I](https://github.com/VincentTatan/ValueInvesting) [II](https://github.com/astro30/valinvest)  
+
+☑ [Value Investing](https://github.com/astro30/valinvest)  
 ☐ Growth at a reasonable price (GARP)  
 ☐ Growth Investing  
 ☐ Income investing
@@ -82,28 +83,33 @@ Financial modeling and quantitative analysis
 <summary>Ratio Analysis</summary>
 
 - **Liquidity Ratio**
+  
   - Cash Ratio
   - Quick Ratio (acid test)
   - Current Ratio
   
 - **Solvency Ratio**
+  
   - Interest Coverage Ratio
   - Debt to Assets Ratio
   - Equity Ratio
   - Debt to Equity Ratio
   
 - **Profitability Ratio**
+  
   - Profit Margin
   - Return on Equity (ROE)
   - Return on Assets (ROA)
   
 - **Leverage Ratio**
+  
   - Debt Ratio
   - Debt to Equity Ratio (D/E)
   - Debt Service Coverage Ratio (DSCR)
   - Interest Coverage Ratio
   
 - **Market Ratio**
+  
   - Price-to-Earnings (P/E) Ratio
   - Price/Earning-to-Growth (PEG) Ratio
   - Price-to-Sales (P/S) Ratio
@@ -116,6 +122,7 @@ Financial modeling and quantitative analysis
   - Payables Turnover Ratio
   
 - **Efficiency Ratio**
+  
   - Account Receivable Turnover
   - Inventory Turnover
   - Accounts Payables Turnover
@@ -124,6 +131,7 @@ Financial modeling and quantitative analysis
   - Total Asset Turnover
   
 - **Coverage Ratio**
+  
   - Interest Service Coverage Ratio
   - Debt Service Coverage Ratio
   - Total Cash Flow Coverage Ratio
@@ -132,6 +140,7 @@ Financial modeling and quantitative analysis
   - Total Cash Flow Coverage Ratio
   
 - **Market Prospect Ratio**
+  
   - Price/Earnings (PE) Ratio
   - Earnings per Share
   - Book Value per Share
@@ -152,14 +161,14 @@ Financial modeling and quantitative analysis
 
 ☐ Volume  
 ☐ Volatility  
-☐ Trend [I](https://github.com/alvarobartt/trendet)  
+☐ Trend
 ☐ Momentum
 
 ## Portfolio Management
 
-[Portfolio Optimization](https://github.com/robertmartin8/PyPortfolioOpt)  
-[Portfolio Visualizer](https://www.portfoliovisualizer.com/)  
-[Portfolio Management Journal](https://jpm.pm-research.com/)  
+☑ [Portfolio Optimization](https://github.com/robertmartin8/PyPortfolioOpt)  
+☑ [Portfolio Visualizer](https://www.portfoliovisualizer.com/)  
+☑ [Portfolio Management Journal](https://jpm.pm-research.com/)  
 
 ## Risk Management
 
@@ -182,7 +191,7 @@ Financial modeling and quantitative analysis
 ☐ Deep Learning  
 ☐ Reinforce Learning  
 ☐ Financial Sentiment Analysis  
-☐ [Time Series Forecasting](https://github.com/jinglescode/time-series-forecasting-tensorflowjs)  
-☐ [Recurrent Neural Network](https://github.com/TatevKaren/recurrent-neural-network-pricing-model)  
-☐ [Deep Neural Network](https://github.com/AlgoTraders/stock-analysis-engine)  
-☐ [Others](https://github.com/firmai/financial-machine-learning)
+☑ [Time Series Forecasting](https://github.com/jinglescode/time-series-forecasting-tensorflowjs)  
+☑ [Recurrent Neural Network](https://github.com/TatevKaren/recurrent-neural-network-pricing-model)  
+☑ [Deep Neural Network](https://github.com/AlgoTraders/stock-analysis-engine)  
+☑ [Others](https://github.com/firmai/financial-machine-learning)
