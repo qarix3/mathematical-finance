@@ -1,40 +1,38 @@
-# Examples
+# Portfolio Theory
 
-## Portfolio Visualizer
+## Portfolio Modeling
 
-### Portfolio Modeling
+- [Backtest Asset Allocation](#asset-allocation)
+- [Backtest Portfolio Performance](#portfolio-performance)
 
-Backtest Asset Allocation
-Backtest Portfolio Performance
+## Monte Carlo Simulations
 
-### Monte Carlo Simulations
+- [Monte Carlo Simulation](#monte-carlo-simulation)
+- [Monte Carlo Simulation Using Forward Looking Capital Market Expectations](#monte-carlo-simulation-using-forward-looking-capital-market-expectations)
+- [Financial Goals Planning](#financial-goals-planning)
 
-Monte Carlo Simulation
-Monte Carlo Simulation Using Forward Looking Capital Market Expectations
-Financial Goals Planning
+## Portfolio Optimization
 
-### Portfolio Optimization
+- [Efficient Frontier](#efficient-frontier)
+- [Resampled Efficient Frontier](#resampled-efficient-frontier)
+- [Mean Variance Optimization](#mean-variance-optimization)
+- [Risk Parity Optimization](#risk-parity-optimization)
+- [Constrained Optimization](#constrained-optimization)
+- [Portfolio Optimization Using Forward Looking Capital Market Expectations](#portfolio-optimization-using-forward-looking-capital-market-expectations)
+- [Risk Factor Based Allocation](#risk-factor-based-allocation)
 
-Efficient Frontier
-Resampled Efficient Frontier
-Mean Variance Optimization
-Risk Parity Optimization
-Constrained Optimization
-Portfolio Optimization Using Forward Looking Capital Market Expectations
-Risk Factor Based Allocation
+## Asset Analytics
 
-### Asset Analytics
+- [Asset Correlations](#asset-correlations)
+- [Factor Regression Analysis](#factor-regression-analysis)
 
-Asset Correlations
-Factor Regression Analysis
+## Timing Models
 
-### Timing Models
-
-Moving Averages
-Relative Strength
-Dual Momentum
-Adaptive Allocation
-Target Volatility
+- [Moving Averages](#market-timing---moving-averages)
+- [Relative Strength](#market-timing---relative-strength)
+- [Dual Momentum](#market-timing---dual-momentum)
+- [Adaptive Allocation](#market-timing---adaptive-allocation)
+- [Target Volatility](#market-timing---target-volatility)
 
 ---
 
@@ -43,21 +41,21 @@ Target Volatility
 Compare historical performance and risk vs. return profile of different asset allocations:
 
 **Portfolio #1**
-60% Total US Stock Market
-40% Total US Bond Market
+60% Total US Stock Market  
+40% Total US Bond Market  
 
 **Portfolio #2**
-40% Total US Stock Market
-20% International ex-US Stock Market
-10% Real Estate
-30% Total US Bond Market
+40% Total US Stock Market  
+20% International ex-US Stock Market  
+10% Real Estate  
+30% Total US Bond Market  
 
 ## Portfolio Performance
 
-40% Vanguard Total Stock Market Index Fund (VTSMX)
-20% Vanguard Total International Stock Index Fund (VGTSX)
-10% Vanguard Real Estate Index Fund (VGSIX)
-30% Vanguard Total Bond Market Index Fund (VBMFX)
+40% Vanguard Total Stock Market Index Fund (VTSMX)  
+20% Vanguard Total International Stock Index Fund (VGTSX)  
+10% Vanguard Real Estate Index Fund (VGSIX)  
+30% Vanguard Total Bond Market Index Fund (VBMFX)  
 
 ## Monte Carlo Simulation
 
@@ -66,7 +64,7 @@ different outcomes based on the given portfolio asset allocation and cashflows.
 
 ## Monte Carlo Simulation Using Forward Looking Capital Market Expectations
 
-Simulate portfolio performance with forward looking return and volatility
+Simulate portfolio performance with forward-looking return and volatility
 assumptions rather than relying on historical estimates for asset returns.
 
 Sample Capital Market Expectations
@@ -85,9 +83,9 @@ Sample assumptions for expected annual returns
 Use Monte Carlo simulation to test portfolio growth and survival
 against specified financial goals both during career and retirement.
 
-* Save $1,500 per month during career
-* Support college education for one child with $40,000 per year for 4 years
-* Withdraw $3,500 per month during retirement
+- Save $1,500 per month during career
+- Support college education for one child with $40,000 per year for 4 years
+- Withdraw $3,500 per month during retirement
 
 ## Efficient Frontier
 
@@ -141,6 +139,14 @@ Use allocation weight constraints at both asset and asset group level to enforce
 |iShares 20+ Year Treasury Bond ETF|Fixed Income|5%|30%|
 |iShares 7-10 Year Treasury Bond ETF|Fixed Income|5%|30%|
 |iShares iBoxx $ Invmt Grade Corp Bd ETF|Fixed Income|5%|20%|
+
+## Portfolio Optimization Using Forward Looking Capital Market Expectations
+
+## Risk Factor Based Allocation
+
+## Asset Correlations
+
+## Factor Regression Analysis
 
 ## Market Timing - Moving Averages
 
