@@ -172,12 +172,12 @@ Financial modeling and quantitative analysis
 
 ## Risk Management
 
-☐ Profit/Loss  
 ☐ Backtesting and Trade Forensics  
-☐ Value-at-Risk  
+☐ Credit Value Adjustment  
 ☐ Hedging  
 ☐ Mark to Market  
-☐ Credit Value Adjustment  
+☐ Profit/Loss  
+☐ Value-at-Risk  
 
 ## Asset Allocation
 
@@ -189,9 +189,9 @@ Financial modeling and quantitative analysis
 ## Artificial Intelligent
 
 ☐ Deep Learning  
-☐ Reinforce Learning  
 ☐ Financial Sentiment Analysis  
-☑ [Time Series Forecasting](https://github.com/jinglescode/time-series-forecasting-tensorflowjs)  
-☑ [Recurrent Neural Network](https://github.com/TatevKaren/recurrent-neural-network-pricing-model)  
+☐ Reinforce Learning  
 ☑ [Deep Neural Network](https://github.com/AlgoTraders/stock-analysis-engine)  
 ☑ [Others](https://github.com/firmai/financial-machine-learning)
+☑ [Recurrent Neural Network](https://github.com/TatevKaren/recurrent-neural-network-pricing-model)  
+☑ [Time Series Forecasting](https://github.com/jinglescode/time-series-forecasting-tensorflowjs)  
