@@ -1,5 +1,7 @@
 # Technical Analysis
+
 ## Technical Analysis Indicator
+
 **Volume**  
 Money Flow Index (MFI)  
 Accumulation/Distribution Index (ADI)  
